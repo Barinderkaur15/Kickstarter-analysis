@@ -4,7 +4,7 @@ After analysing the kickstarter data it is observed that
 1. it is very impoartnt to decide the goal for the campaign as when goal is less then $5000 in case of plays there are more chances of the play to be sucessful. 
 None of the campaigns for the plays where cancelled , but they are few campaign which got failed over the course of time. To determine why the these fails we need more data or factors to know the possibility of why it fails 
 
-
+![OUtcomes](https://user-images.githubusercontent.com/55926650/65822904-e9173380-e200-11e9-88e1-136ef6376c0f.png)
 
 
 Part 2 :To check if the length of campaign contribute to sucess or failure . 
