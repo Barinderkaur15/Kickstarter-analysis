@@ -18,3 +18,5 @@ Part 2 :To check if the length of campaign contribute to sucess or failure .
  For example if people will come across a sucessfull play as in case of louise also sh was looking data according the play she really enjoys in great braitain , so while doing analysis is it important to consider the name as well .
  
  But based on the charts one thing is very clear that over the years the plays starting between april to jun have more chances to be sucessful and in declines by the end of the year 
+ ![launch date](launch date.png)
+ 
